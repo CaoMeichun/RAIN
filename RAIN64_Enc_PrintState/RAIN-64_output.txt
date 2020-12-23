@@ -1,0 +1,383 @@
+RAIN-64:
+PlainText:
+d4e2 fecc 095d 02ac 
+
+Key:
+69e5 f259 89b3 e68f 
+Tweak:
+3136 485d 9f0f c708 
+
+Round Tweakey RTK schdule:
+
+RTK - Round00 - AK_out             = 58d3 ba04 16bc 2187 
+RTK - Round00 - TSR_out            = 58d3 a04b bc16 7218 
+RTK - Round00 - AC_out             = 28d3 804b cc16 3218 
+RTK - Round00 - RTK                = a8db 88cb cc9e ba98 
+RTK - Round01 - AK_out             = c13e 7a92 452d 5c17 
+RTK - Round01 - TSR_out            = c13e a927 2d45 75c1 
+RTK - Round01 - AC_out             = e13e f927 ad45 d5c1 
+RTK - Round01 - RTK                = 6136 7127 2545 5541 
+RTK - Round02 - AK_out             = 08d3 837e acf6 b3ce 
+RTK - Round02 - TSR_out            = 08d3 37e8 f6ac eb3c 
+RTK - Round02 - AC_out             = 48d3 67e8 36ac bb3c 
+RTK - Round02 - RTK                = c8db efe8 beac bbbc 
+RTK - Round03 - AK_out             = a13e 1db1 371f 5d33 
+RTK - Round03 - TSR_out            = a13e db11 1f37 35d3 
+RTK - Round03 - AC_out             = a13e 2b11 9f37 35d3 
+RTK - Round03 - RTK                = 2136 2311 1737 3553 
+RTK - Round04 - AK_out             = 48d3 d148 9e84 d3dc 
+RTK - Round04 - TSR_out            = 48d3 148d 849e cd3d 
+RTK - Round04 - AC_out             = 38d3 c48d 549e cd3d 
+RTK - Round04 - RTK                = 3053 4405 5416 4535 
+RTK - Round05 - AK_out             = 59b6 b65c dda5 a3ba 
+RTK - Round05 - TSR_out            = 59b6 65cb a5dd aa3b 
+RTK - Round05 - AC_out             = 79b6 c5cb 75dd 7a3b 
+RTK - Round05 - RTK                = f9be cdcb fddd fabb 
+RTK - Round06 - AK_out             = 905b 3f92 746e 1c34 
+RTK - Round06 - TSR_out            = 905b f923 6e74 41c3 
+RTK - Round06 - AC_out             = 505b b923 1e74 01c3 
+RTK - Round06 - RTK                = d8db b9ab 9efc 89cb 
+RTK - Round07 - AK_out             = b13e 4bf2 174f 6f44 
+RTK - Round07 - TSR_out            = b13e bf24 4f17 46f4 
+RTK - Round07 - AC_out             = b13e 4f24 ef17 b6f4 
+RTK - Round07 - RTK                = b9be cfac ef9f befc 
+RTK - Round08 - AK_out             = d05b 3df5 662c 5873 
+RTK - Round08 - TSR_out            = d05b df53 2c66 3587 
+RTK - Round08 - AC_out             = 005b df53 ec66 e587 
+RTK - Round08 - RTK                = 88db dfdb ecee ed8f 
+RTK - Round09 - AK_out             = e13e 2d82 655d 0b00 
+RTK - Round09 - TSR_out            = e13e d822 5d65 00b0 
+RTK - Round09 - AC_out             = 613e 7822 ad65 a0b0 
+RTK - Round09 - RTK                = 6136 7022 2565 2030 
+RTK - Round10 - AK_out             = 08d3 827b acd6 c6bf 
+RTK - Round10 - TSR_out            = 08d3 27b8 d6ac fc6b 
+RTK - Round10 - AC_out             = c8d3 07b8 06ac 3c6b 
+RTK - Round10 - RTK                = c8db 8fb8 8eac bceb 
+RTK - Round11 - AK_out             = a13e 7de1 071f 5a64 
+RTK - Round11 - TSR_out            = a13e de17 1f07 45a6 
+RTK - Round11 - AC_out             = 213e 8e17 df07 e5a6 
+RTK - Round11 - RTK                = a9be 8e9f df8f edae 
+RTK - Round12 - AK_out             = c05b 7cc6 563c 0b21 
+RTK - Round12 - TSR_out            = c05b cc67 3c56 10b2 
+RTK - Round12 - AC_out             = 305b bc67 ec56 10b2 
+RTK - Round12 - RTK                = 3053 3467 6456 1032 
+RTK - Round13 - AK_out             = 59b6 c63e ede5 f6bd 
+RTK - Round13 - TSR_out            = 59b6 63ec e5ed df6b 
+RTK - Round13 - AC_out             = 99b6 33ec c5ed 1f6b 
+RTK - Round13 - RTK                = 1136 3364 4565 1763 
+RTK - Round14 - AK_out             = 78d3 c13d ccd6 f1ec 
+RTK - Round14 - TSR_out            = 78d3 13dc d6cc cf1e 
+RTK - Round14 - AC_out             = d8d3 b3dc 16cc 3f1e 
+RTK - Round14 - RTK                = 5053 3354 1644 3716 
+RTK - Round15 - AK_out             = 39b6 c10d 9ff7 d199 
+RTK - Round15 - TSR_out            = 39b6 10dc f79f 9d19 
+RTK - Round15 - AC_out             = f9b6 40dc 379f 6d19 
+RTK - Round15 - RTK                = f9be c8dc bf9f ed99 
+RTK - Round16 - AK_out             = 905b 3a85 362c 0b16 
+RTK - Round16 - TSR_out            = 905b a853 2c36 60b1 
+RTK - Round16 - AC_out             = 605b a853 ec36 30b1 
+RTK - Round16 - RTK                = 6053 2053 6436 3031 
+RTK - Round17 - AK_out             = 09b6 d20a ed85 d6be 
+RTK - Round17 - TSR_out            = 09b6 20ad 85ed ed6b 
+RTK - Round17 - AC_out             = 49b6 50ad 45ed 3d6b 
+RTK - Round17 - RTK                = 4136 5025 4565 3563 
+RTK - Round18 - AK_out             = 28d3 a27c ccd6 d3ec 
+RTK - Round18 - TSR_out            = 28d3 27ca d6cc cd3e 
+RTK - Round18 - AC_out             = 58d3 87ca 96cc ed3e 
+RTK - Round18 - RTK                = d8db 8fca 9ecc edbe 
+RTK - Round19 - AK_out             = b13e 7d93 177f 0b31 
+RTK - Round19 - TSR_out            = b13e d937 7f17 10b3 
+RTK - Round19 - AC_out             = b13e 1937 7f17 40b3 
+RTK - Round19 - RTK                = b9be 99bf ff9f c8bb 
+RTK - Round20 - AK_out             = d05b 6be6 762c 2e34 
+RTK - Round20 - TSR_out            = d05b be66 2c76 42e3 
+RTK - Round20 - AC_out             = 005b 6e66 ac76 42e3 
+RTK - Round20 - RTK                = 88db eeee acfe caeb 
+RTK - Round21 - AK_out             = e13e 1cb7 254d 2c64 
+RTK - Round21 - TSR_out            = e13e cb71 4d25 42c6 
+RTK - Round21 - AC_out             = b13e 1b71 8d25 c2c6 
+RTK - Round21 - RTK                = b9be 9bf9 8dad cace 
+RTK - Round22 - AK_out             = d05b 69a0 041e 2c41 
+RTK - Round22 - TSR_out            = d05b 9a06 1e04 12c4 
+RTK - Round22 - AC_out             = 805b ea06 4e04 52c4 
+RTK - Round22 - RTK                = 0053 6206 4604 5244 
+RTK - Round23 - AK_out             = 69b6 905f cfb7 b4cb 
+RTK - Round23 - TSR_out            = 69b6 05f9 b7cf bb4c 
+RTK - Round23 - AC_out             = a9b6 a5f9 c7cf 9b4c 
+RTK - Round23 - RTK                = 2136 2571 4747 1344 
+RTK - Round24 - AK_out             = 48d3 d728 cef4 f5cb 
+RTK - Round24 - TSR_out            = 48d3 728d f4ce bf5c 
+RTK - Round24 - AC_out             = c8d3 b28d b4ce 7f5c 
+RTK - Round24 - RTK                = c8db ba8d bcce ffdc 
+RTK - Round25 - AK_out             = a13e 48d4 357d 1953 
+RTK - Round25 - TSR_out            = a13e 8d44 7d35 3195 
+RTK - Round25 - AC_out             = f13e 0d44 7d35 1195 
+RTK - Round25 - RTK                = f9be 8dcc fdbd 999d 
+RTK - Round26 - AK_out             = 905b 7f95 740e 7f12 
+RTK - Round26 - TSR_out            = 905b f957 0e74 27f1 
+RTK - Round26 - AC_out             = c05b 2957 7e74 87f1 
+RTK - Round26 - RTK                = 4053 2157 7674 0771 
+RTK - Round27 - AK_out             = 29b6 d30e ffc7 e1fe 
+RTK - Round27 - TSR_out            = 29b6 30ed c7ff ee1f 
+RTK - Round27 - AC_out             = 69b6 60ed c7ff 1e1f 
+RTK - Round27 - RTK                = e9be e8ed cfff 9e9f 
+RTK - Round28 - AK_out             = 805b 1ab4 464c 7810 
+RTK - Round28 - TSR_out            = 805b ab41 4c46 0781 
+RTK - Round28 - AC_out             = a05b eb41 0c46 f781 
+RTK - Round28 - RTK                = a8db ebc9 8cce ff89 
+RTK - Round29 - AK_out             = c13e 1990 057d 1906 
+RTK - Round29 - TSR_out            = c13e 9901 7d05 6190 
+RTK - Round29 - AC_out             = 013e 9901 3d05 1190 
+RTK - Round29 - RTK                = 89be 9989 bd8d 9998 
+
+
+
+
+Encryption:
+ENC - Round00 - MC_output   : S = 6858 55b1 d9ca 317c  - Tweakey_0 = a8db 88cb cc9e ba98 
+ENC - Round00 - SC_output   : S = 4c5c 55d9 e18a 29b8  - Tweakey_0 = a8db 88cb cc9e ba98 
+ENC - Round00 - SR_output   : S = 4c5c 5d95 8ae1 829b  - Tweakey_0 = a8db 88cb cc9e ba98 
+ENC - Round00 - ATK_output  : S = e487 d55e 467f 3803  - Tweakey_0 = a8db 88cb cc9e ba98 
+ENC - Round01 - MC_output   : S = ab22 09da 9afb 77a6  - Tweakey_1 = 6136 7127 2545 5541 
+ENC - Round01 - SC_output   : S = ad33 01ea 1afd bba4  - Tweakey_1 = 6136 7127 2545 5541 
+ENC - Round01 - SR_output   : S = ad33 1ea0 fd1a 4bba  - Tweakey_1 = 6136 7127 2545 5541 
+ENC - Round01 - ATK_output  : S = cc05 6f87 d85f 1efb  - Tweakey_1 = 6136 7127 2545 5541 
+ENC - Round02 - MC_output   : S = a923 bd79 0aa1 7bdd  - Tweakey_2 = c8db efe8 beac bbbc 
+ENC - Round02 - SC_output   : S = a132 deb1 0aa9 bdee  - Tweakey_2 = c8db efe8 beac bbbc 
+ENC - Round02 - SR_output   : S = a132 eb1d a90a ebde  - Tweakey_2 = c8db efe8 beac bbbc 
+ENC - Round02 - ATK_output  : S = 69e9 04f5 17a6 5062  - Tweakey_2 = c8db efe8 beac bbbc 
+ENC - Round03 - MC_output   : S = 4331 3d7e 2e2d 7aba  - Tweakey_3 = 2136 2311 1737 3553 
+ENC - Round03 - SC_output   : S = 6229 2eb7 373e bada  - Tweakey_3 = 2136 2311 1737 3553 
+ENC - Round03 - SR_output   : S = 6229 eb72 3e37 abad  - Tweakey_3 = 2136 2311 1737 3553 
+ENC - Round03 - ATK_output  : S = 431f c863 2900 9efe  - Tweakey_3 = 2136 2311 1737 3553 
+ENC - Round04 - MC_output   : S = 7f9d 1582 f4e1 a27c  - Tweakey_4 = 3053 4405 5416 4535 
+ENC - Round04 - SC_output   : S = bf1e 95c3 f679 a3b8  - Tweakey_4 = 3053 4405 5416 4535 
+ENC - Round04 - SR_output   : S = bf1e 5c39 79f6 8a3b  - Tweakey_4 = 3053 4405 5416 4535 
+ENC - Round04 - ATK_output  : S = 8f4d 183c 2de0 cf0e  - Tweakey_4 = 3053 4405 5416 4535 
+ENC - Round05 - MC_output   : S = fad2 587f 6da3 ba91  - Tweakey_5 = f9be cdcb fddd fabb 
+ENC - Round05 - SC_output   : S = fae3 5cbf 4ea2 da19  - Tweakey_5 = f9be cdcb fddd fabb 
+ENC - Round05 - SR_output   : S = fae3 cbf5 a24e 9da1  - Tweakey_5 = f9be cdcb fddd fabb 
+ENC - Round05 - ATK_output  : S = 035d 063e 5f93 671a  - Tweakey_5 = f9be cdcb fddd fabb 
+ENC - Round06 - MC_output   : S = 3eb7 6279 3bd4 5af0  - Tweakey_6 = d8db b9ab 9efc 89cb 
+ENC - Round06 - SC_output   : S = 27db 43b1 2de6 5af0  - Tweakey_6 = d8db b9ab 9efc 89cb 
+ENC - Round06 - SR_output   : S = 27db 3b14 e62d 05af  - Tweakey_6 = d8db b9ab 9efc 89cb 
+ENC - Round06 - ATK_output  : S = ff00 82bf 78d1 8c64  - Tweakey_6 = d8db b9ab 9efc 89cb 
+ENC - Round07 - MC_output   : S = 760a f1db 0bb5 056e  - Tweakey_7 = b9be cfac ef9f befc 
+ENC - Round07 - SC_output   : S = b40a f9ed 0dd5 0547  - Tweakey_7 = b9be cfac ef9f befc 
+ENC - Round07 - SR_output   : S = b40a 9edf d50d 7054  - Tweakey_7 = b9be cfac ef9f befc 
+ENC - Round07 - ATK_output  : S = 0db4 5173 3a92 cea8  - Tweakey_7 = b9be cfac ef9f befc 
+ENC - Round08 - MC_output   : S = a549 926f f98e 6655  - Tweakey_8 = 88db dfdb ecee ed8f 
+ENC - Round08 - SC_output   : S = a561 134f f1c7 4455  - Tweakey_8 = 88db dfdb ecee ed8f 
+ENC - Round08 - SR_output   : S = a561 34f1 c7f1 5445  - Tweakey_8 = 88db dfdb ecee ed8f 
+ENC - Round08 - ATK_output  : S = 2dba eb2a 2b1f b9ca  - Tweakey_8 = 88db dfdb ecee ed8f 
+ENC - Round09 - MC_output   : S = 79ff 7f5a bf6f ed8f  - Tweakey_9 = 6136 7022 2565 2030 
+ENC - Round09 - SC_output   : S = b1ff bf5a df4f 7ecf  - Tweakey_9 = 6136 7022 2565 2030 
+ENC - Round09 - SR_output   : S = b1ff f5ab 4fdf f7ec  - Tweakey_9 = 6136 7022 2565 2030 
+ENC - Round09 - ATK_output  : S = d0c9 8589 6aba d7dc  - Tweakey_9 = 6136 7022 2565 2030 
+ENC - Round10 - MC_output   : S = 38ef 829c 6daf 3ffa  - Tweakey_10 = c8db 8fb8 8eac bceb 
+ENC - Round10 - SC_output   : S = 2c7f c318 4eaf 2ffa  - Tweakey_10 = c8db 8fb8 8eac bceb 
+ENC - Round10 - SR_output   : S = 2c7f 318c af4e a2ff  - Tweakey_10 = c8db 8fb8 8eac bceb 
+ENC - Round10 - ATK_output  : S = e4a4 be34 21e2 1e14  - Tweakey_10 = c8db 8fb8 8eac bceb 
+ENC - Round11 - MC_output   : S = 81c2 4484 db52 7b72  - Tweakey_11 = a9be 8e9f df8f edae 
+ENC - Round11 - SC_output   : S = c983 66c6 ed53 bdb3  - Tweakey_11 = a9be 8e9f df8f edae 
+ENC - Round11 - SR_output   : S = c983 6c66 53ed 3bdb  - Tweakey_11 = a9be 8e9f df8f edae 
+ENC - Round11 - ATK_output  : S = 603d e2f9 8c62 d675  - Tweakey_11 = a9be 8e9f df8f edae 
+ENC - Round12 - MC_output   : S = b8ee 54b1 3a2a 0ea6  - Tweakey_12 = 3053 3467 6456 1032 
+ENC - Round12 - SC_output   : S = dc77 56d9 2a3a 07a4  - Tweakey_12 = 3053 3467 6456 1032 
+ENC - Round12 - SR_output   : S = dc77 6d95 3a2a 407a  - Tweakey_12 = 3053 3467 6456 1032 
+ENC - Round12 - ATK_output  : S = ec24 59f2 5e7c 5048  - Tweakey_12 = 3053 3467 6456 1032 
+ENC - Round13 - MC_output   : S = 57c6 e59e e210 ebaa  - Tweakey_13 = 1136 3364 4565 1763 
+ENC - Round13 - SC_output   : S = 5b84 7517 7390 7daa  - Tweakey_13 = 1136 3364 4565 1763 
+ENC - Round13 - SR_output   : S = 5b84 5177 9073 a7da  - Tweakey_13 = 1136 3364 4565 1763 
+ENC - Round13 - ATK_output  : S = 4ab2 6213 d516 b0b9  - Tweakey_13 = 1136 3364 4565 1763 
+ENC - Round14 - MC_output   : S = 07bc 9818 2f1d fdb7  - Tweakey_14 = 5053 3354 1644 3716 
+ENC - Round14 - SC_output   : S = 0bd8 1c9c 3f9e fedb  - Tweakey_14 = 5053 3354 1644 3716 
+ENC - Round14 - SR_output   : S = 0bd8 c9c1 9e3f bfed  - Tweakey_14 = 5053 3354 1644 3716 
+ENC - Round14 - ATK_output  : S = 5b8b fa95 887b 88fb  - Tweakey_14 = 5053 3354 1644 3716 
+ENC - Round15 - MC_output   : S = fa15 29e5 5b0b 2965  - Tweakey_15 = f9be c8dc bf9f ed99 
+ENC - Round15 - SC_output   : S = fa95 3175 5d0d 3145  - Tweakey_15 = f9be c8dc bf9f ed99 
+ENC - Round15 - SR_output   : S = fa95 1753 0d5d 5314  - Tweakey_15 = f9be c8dc bf9f ed99 
+ENC - Round15 - ATK_output  : S = 032b df8f b2c2 be8d  - Tweakey_15 = f9be c8dc bf9f ed99 
+ENC - Round16 - MC_output   : S = d3c0 6229 0f64 6e66  - Tweakey_16 = 6053 2053 6436 3031 
+ENC - Round16 - SC_output   : S = e280 4331 0f46 4744  - Tweakey_16 = 6053 2053 6436 3031 
+ENC - Round16 - SR_output   : S = e280 3314 460f 4474  - Tweakey_16 = 6053 2053 6436 3031 
+ENC - Round16 - ATK_output  : S = 82d3 1347 2239 7445  - Tweakey_16 = 6053 2053 6436 3031 
+ENC - Round17 - MC_output   : S = 453b e5d1 d4af b3ad  - Tweakey_17 = 4136 5025 4565 3563 
+ENC - Round17 - SC_output   : S = 652d 75e9 e6af d2ae  - Tweakey_17 = 4136 5025 4565 3563 
+ENC - Round17 - SR_output   : S = 652d 5e97 afe6 ed2a  - Tweakey_17 = 4136 5025 4565 3563 
+ENC - Round17 - ATK_output  : S = 241b 0eb2 ea83 d849  - Tweakey_17 = 4136 5025 4565 3563 
+ENC - Round18 - MC_output   : S = 3c78 f2e0 16d1 c02a  - Tweakey_18 = d8db 8fca 9ecc edbe 
+ENC - Round18 - SC_output   : S = 28bc f370 94e9 803a  - Tweakey_18 = d8db 8fca 9ecc edbe 
+ENC - Round18 - SR_output   : S = 28bc 370f e994 a803  - Tweakey_18 = d8db 8fca 9ecc edbe 
+ENC - Round18 - ATK_output  : S = f067 b8c5 7758 45bd  - Tweakey_18 = d8db 8fca 9ecc edbe 
+ENC - Round19 - MC_output   : S = 8a20 0d1f c282 3ffa  - Tweakey_19 = b9be 99bf ff9f c8bb 
+ENC - Round19 - SC_output   : S = ca30 0e9f 83c3 2ffa  - Tweakey_19 = b9be 99bf ff9f c8bb 
+ENC - Round19 - SR_output   : S = ca30 e9f0 c383 a2ff  - Tweakey_19 = b9be 99bf ff9f c8bb 
+ENC - Round19 - ATK_output  : S = 738e 704f 3c1c 6a44  - Tweakey_19 = b9be 99bf ff9f c8bb 
+ENC - Round20 - MC_output   : S = 2617 6985 25d6 3fdd  - Tweakey_20 = 88db eeee acfe caeb 
+ENC - Round20 - SC_output   : S = 349b 41c5 35e4 2fee  - Tweakey_20 = 88db eeee acfe caeb 
+ENC - Round20 - SR_output   : S = 349b 1c54 e435 e2fe  - Tweakey_20 = 88db eeee acfe caeb 
+ENC - Round20 - ATK_output  : S = bc40 f2ba 48cb 2815  - Tweakey_20 = 88db eeee acfe caeb 
+ENC - Round21 - MC_output   : S = 9264 66ef dc9e 0631  - Tweakey_21 = b9be 9bf9 8dad cace 
+ENC - Round21 - SC_output   : S = 1346 447f e817 0429  - Tweakey_21 = b9be 9bf9 8dad cace 
+ENC - Round21 - SR_output   : S = 1346 47f4 17e8 9042  - Tweakey_21 = b9be 9bf9 8dad cace 
+ENC - Round21 - ATK_output  : S = aaf8 dc0d 9a45 5a8c  - Tweakey_21 = b9be 9bf9 8dad cace 
+ENC - Round22 - MC_output   : S = 1cc4 2c79 6a31 ecb0  - Tweakey_22 = 0053 6206 4604 5244 
+ENC - Round22 - SC_output   : S = 9886 38b1 4a29 78d0  - Tweakey_22 = 0053 6206 4604 5244 
+ENC - Round22 - SR_output   : S = 9886 8b13 294a 078d  - Tweakey_22 = 0053 6206 4604 5244 
+ENC - Round22 - ATK_output  : S = 98d5 e915 6f4e 55c9  - Tweakey_22 = 0053 6206 4604 5244 
+ENC - Round23 - MC_output   : S = d392 2409 a252 1e8e  - Tweakey_23 = 2136 2571 4747 1344 
+ENC - Round23 - SC_output   : S = e213 3601 a353 97c7  - Tweakey_23 = 2136 2571 4747 1344 
+ENC - Round23 - SR_output   : S = e213 6013 53a3 797c  - Tweakey_23 = 2136 2571 4747 1344 
+ENC - Round23 - ATK_output  : S = c325 4562 14e4 6a38  - Tweakey_23 = 2136 2571 4747 1344 
+ENC - Round24 - MC_output   : S = 3bbe ec7f bdf9 92a3  - Tweakey_24 = c8db ba8d bcce ffdc 
+ENC - Round24 - SC_output   : S = 2dd7 78bf def1 13a2  - Tweakey_24 = c8db ba8d bcce ffdc 
+ENC - Round24 - SR_output   : S = 2dd7 8bf7 f1de 213a  - Tweakey_24 = c8db ba8d bcce ffdc 
+ENC - Round24 - ATK_output  : S = e50c 317a 4d10 dee6  - Tweakey_24 = c8db ba8d bcce ffdc 
+ENC - Round25 - MC_output   : S = a28c 0a90 76fa 9966  - Tweakey_25 = f9be 8dcc fdbd 999d 
+ENC - Round25 - SC_output   : S = a3c8 0a10 b4fa 1144  - Tweakey_25 = f9be 8dcc fdbd 999d 
+ENC - Round25 - SR_output   : S = a3c8 a100 fab4 4114  - Tweakey_25 = f9be 8dcc fdbd 999d 
+ENC - Round25 - ATK_output  : S = 5a76 2ccc 0709 d889  - Tweakey_25 = f9be 8dcc fdbd 999d 
+ENC - Round26 - MC_output   : S = f34c ae33 85f6 71b3  - Tweakey_26 = 4053 2157 7674 0771 
+ENC - Round26 - SC_output   : S = f268 a722 c5f4 b9d2  - Tweakey_26 = 4053 2157 7674 0771 
+ENC - Round26 - SR_output   : S = f268 722a f4c5 2b9d  - Tweakey_26 = 4053 2157 7674 0771 
+ENC - Round26 - ATK_output  : S = b23b 537d 82b1 2cec  - Tweakey_26 = 4053 2157 7674 0771 
+ENC - Round27 - MC_output   : S = fd20 cdaa 1c66 63f7  - Tweakey_27 = e9be e8ed cfff 9e9f 
+ENC - Round27 - SC_output   : S = fe30 8eaa 9844 42fb  - Tweakey_27 = e9be e8ed cfff 9e9f 
+ENC - Round27 - SR_output   : S = fe30 eaa8 4498 b42f  - Tweakey_27 = e9be e8ed cfff 9e9f 
+ENC - Round27 - ATK_output  : S = 178e 0245 8b67 2ab0  - Tweakey_27 = e9be e8ed cfff 9e9f 
+ENC - Round28 - MC_output   : S = a392 3f7b b659 9eac  - Tweakey_28 = a8db ebc9 8cce ff89 
+ENC - Round28 - SC_output   : S = a213 2fbd d451 17a8  - Tweakey_28 = a8db ebc9 8cce ff89 
+ENC - Round28 - SR_output   : S = a213 fbd2 51d4 817a  - Tweakey_28 = a8db ebc9 8cce ff89 
+ENC - Round28 - ATK_output  : S = 0ac8 101b dd1a 7ef3  - Tweakey_28 = a8db ebc9 8cce ff89 
+ENC - Round29 - MC_output   : S = b3f2 6420 a921 c7c9  - Tweakey_29 = 89be 9989 bd8d 9998 
+ENC - Round29 - SC_output   : S = d2f3 4630 a139 8b81  - Tweakey_29 = 89be 9989 bd8d 9998 
+ENC - Round29 - SR_output   : S = d2f3 6304 39a1 18b8  - Tweakey_29 = 89be 9989 bd8d 9998 
+ENC - Round29 - ATK_output  : S = 5b4d fa8d 842c 8120  - Tweakey_29 = 89be 9989 bd8d 9998 
+CipherText: 5b4d fa8d 842c 8120 
+
+Decryption:
+DEC - Round29 - ATK_inv_output    : S = d2f3 6304 39a1 18b8  - Tweakey_29 = 89be 9989 bd8d 9998 
+DEC - Round29 - SR_inv_outputput  : S = d2f3 4630 a139 8b81  - Tweakey_29 = 89be 9989 bd8d 9998 
+DEC - Round29 - SC_inv_output     : S = b3f2 6420 a921 c7c9  - Tweakey_29 = 89be 9989 bd8d 9998 
+DEC - Round29 - MC_inv_output     : S = 0ac8 101b dd1a 7ef3  - Tweakey_29 = 89be 9989 bd8d 9998 
+DEC - Round28 - ATK_inv_output    : S = a213 fbd2 51d4 817a  - Tweakey_28 = a8db ebc9 8cce ff89 
+DEC - Round28 - SR_inv_outputput  : S = a213 2fbd d451 17a8  - Tweakey_28 = a8db ebc9 8cce ff89 
+DEC - Round28 - SC_inv_output     : S = a392 3f7b b659 9eac  - Tweakey_28 = a8db ebc9 8cce ff89 
+DEC - Round28 - MC_inv_output     : S = 178e 0245 8b67 2ab0  - Tweakey_28 = a8db ebc9 8cce ff89 
+DEC - Round27 - ATK_inv_output    : S = fe30 eaa8 4498 b42f  - Tweakey_27 = e9be e8ed cfff 9e9f 
+DEC - Round27 - SR_inv_outputput  : S = fe30 8eaa 9844 42fb  - Tweakey_27 = e9be e8ed cfff 9e9f 
+DEC - Round27 - SC_inv_output     : S = fd20 cdaa 1c66 63f7  - Tweakey_27 = e9be e8ed cfff 9e9f 
+DEC - Round27 - MC_inv_output     : S = b23b 537d 82b1 2cec  - Tweakey_27 = e9be e8ed cfff 9e9f 
+DEC - Round26 - ATK_inv_output    : S = f268 722a f4c5 2b9d  - Tweakey_26 = 4053 2157 7674 0771 
+DEC - Round26 - SR_inv_outputput  : S = f268 a722 c5f4 b9d2  - Tweakey_26 = 4053 2157 7674 0771 
+DEC - Round26 - SC_inv_output     : S = f34c ae33 85f6 71b3  - Tweakey_26 = 4053 2157 7674 0771 
+DEC - Round26 - MC_inv_output     : S = 5a76 2ccc 0709 d889  - Tweakey_26 = 4053 2157 7674 0771 
+DEC - Round25 - ATK_inv_output    : S = a3c8 a100 fab4 4114  - Tweakey_25 = f9be 8dcc fdbd 999d 
+DEC - Round25 - SR_inv_outputput  : S = a3c8 0a10 b4fa 1144  - Tweakey_25 = f9be 8dcc fdbd 999d 
+DEC - Round25 - SC_inv_output     : S = a28c 0a90 76fa 9966  - Tweakey_25 = f9be 8dcc fdbd 999d 
+DEC - Round25 - MC_inv_output     : S = e50c 317a 4d10 dee6  - Tweakey_25 = f9be 8dcc fdbd 999d 
+DEC - Round24 - ATK_inv_output    : S = 2dd7 8bf7 f1de 213a  - Tweakey_24 = c8db ba8d bcce ffdc 
+DEC - Round24 - SR_inv_outputput  : S = 2dd7 78bf def1 13a2  - Tweakey_24 = c8db ba8d bcce ffdc 
+DEC - Round24 - SC_inv_output     : S = 3bbe ec7f bdf9 92a3  - Tweakey_24 = c8db ba8d bcce ffdc 
+DEC - Round24 - MC_inv_output     : S = c325 4562 14e4 6a38  - Tweakey_24 = c8db ba8d bcce ffdc 
+DEC - Round23 - ATK_inv_output    : S = e213 6013 53a3 797c  - Tweakey_23 = 2136 2571 4747 1344 
+DEC - Round23 - SR_inv_outputput  : S = e213 3601 a353 97c7  - Tweakey_23 = 2136 2571 4747 1344 
+DEC - Round23 - SC_inv_output     : S = d392 2409 a252 1e8e  - Tweakey_23 = 2136 2571 4747 1344 
+DEC - Round23 - MC_inv_output     : S = 98d5 e915 6f4e 55c9  - Tweakey_23 = 2136 2571 4747 1344 
+DEC - Round22 - ATK_inv_output    : S = 9886 8b13 294a 078d  - Tweakey_22 = 0053 6206 4604 5244 
+DEC - Round22 - SR_inv_outputput  : S = 9886 38b1 4a29 78d0  - Tweakey_22 = 0053 6206 4604 5244 
+DEC - Round22 - SC_inv_output     : S = 1cc4 2c79 6a31 ecb0  - Tweakey_22 = 0053 6206 4604 5244 
+DEC - Round22 - MC_inv_output     : S = aaf8 dc0d 9a45 5a8c  - Tweakey_22 = 0053 6206 4604 5244 
+DEC - Round21 - ATK_inv_output    : S = 1346 47f4 17e8 9042  - Tweakey_21 = b9be 9bf9 8dad cace 
+DEC - Round21 - SR_inv_outputput  : S = 1346 447f e817 0429  - Tweakey_21 = b9be 9bf9 8dad cace 
+DEC - Round21 - SC_inv_output     : S = 9264 66ef dc9e 0631  - Tweakey_21 = b9be 9bf9 8dad cace 
+DEC - Round21 - MC_inv_output     : S = bc40 f2ba 48cb 2815  - Tweakey_21 = b9be 9bf9 8dad cace 
+DEC - Round20 - ATK_inv_output    : S = 349b 1c54 e435 e2fe  - Tweakey_20 = 88db eeee acfe caeb 
+DEC - Round20 - SR_inv_outputput  : S = 349b 41c5 35e4 2fee  - Tweakey_20 = 88db eeee acfe caeb 
+DEC - Round20 - SC_inv_output     : S = 2617 6985 25d6 3fdd  - Tweakey_20 = 88db eeee acfe caeb 
+DEC - Round20 - MC_inv_output     : S = 738e 704f 3c1c 6a44  - Tweakey_20 = 88db eeee acfe caeb 
+DEC - Round19 - ATK_inv_output    : S = ca30 e9f0 c383 a2ff  - Tweakey_19 = b9be 99bf ff9f c8bb 
+DEC - Round19 - SR_inv_outputput  : S = ca30 0e9f 83c3 2ffa  - Tweakey_19 = b9be 99bf ff9f c8bb 
+DEC - Round19 - SC_inv_output     : S = 8a20 0d1f c282 3ffa  - Tweakey_19 = b9be 99bf ff9f c8bb 
+DEC - Round19 - MC_inv_output     : S = f067 b8c5 7758 45bd  - Tweakey_19 = b9be 99bf ff9f c8bb 
+DEC - Round18 - ATK_inv_output    : S = 28bc 370f e994 a803  - Tweakey_18 = d8db 8fca 9ecc edbe 
+DEC - Round18 - SR_inv_outputput  : S = 28bc f370 94e9 803a  - Tweakey_18 = d8db 8fca 9ecc edbe 
+DEC - Round18 - SC_inv_output     : S = 3c78 f2e0 16d1 c02a  - Tweakey_18 = d8db 8fca 9ecc edbe 
+DEC - Round18 - MC_inv_output     : S = 241b 0eb2 ea83 d849  - Tweakey_18 = d8db 8fca 9ecc edbe 
+DEC - Round17 - ATK_inv_output    : S = 652d 5e97 afe6 ed2a  - Tweakey_17 = 4136 5025 4565 3563 
+DEC - Round17 - SR_inv_outputput  : S = 652d 75e9 e6af d2ae  - Tweakey_17 = 4136 5025 4565 3563 
+DEC - Round17 - SC_inv_output     : S = 453b e5d1 d4af b3ad  - Tweakey_17 = 4136 5025 4565 3563 
+DEC - Round17 - MC_inv_output     : S = 82d3 1347 2239 7445  - Tweakey_17 = 4136 5025 4565 3563 
+DEC - Round16 - ATK_inv_output    : S = e280 3314 460f 4474  - Tweakey_16 = 6053 2053 6436 3031 
+DEC - Round16 - SR_inv_outputput  : S = e280 4331 0f46 4744  - Tweakey_16 = 6053 2053 6436 3031 
+DEC - Round16 - SC_inv_output     : S = d3c0 6229 0f64 6e66  - Tweakey_16 = 6053 2053 6436 3031 
+DEC - Round16 - MC_inv_output     : S = 032b df8f b2c2 be8d  - Tweakey_16 = 6053 2053 6436 3031 
+DEC - Round15 - ATK_inv_output    : S = fa95 1753 0d5d 5314  - Tweakey_15 = f9be c8dc bf9f ed99 
+DEC - Round15 - SR_inv_outputput  : S = fa95 3175 5d0d 3145  - Tweakey_15 = f9be c8dc bf9f ed99 
+DEC - Round15 - SC_inv_output     : S = fa15 29e5 5b0b 2965  - Tweakey_15 = f9be c8dc bf9f ed99 
+DEC - Round15 - MC_inv_output     : S = 5b8b fa95 887b 88fb  - Tweakey_15 = f9be c8dc bf9f ed99 
+DEC - Round14 - ATK_inv_output    : S = 0bd8 c9c1 9e3f bfed  - Tweakey_14 = 5053 3354 1644 3716 
+DEC - Round14 - SR_inv_outputput  : S = 0bd8 1c9c 3f9e fedb  - Tweakey_14 = 5053 3354 1644 3716 
+DEC - Round14 - SC_inv_output     : S = 07bc 9818 2f1d fdb7  - Tweakey_14 = 5053 3354 1644 3716 
+DEC - Round14 - MC_inv_output     : S = 4ab2 6213 d516 b0b9  - Tweakey_14 = 5053 3354 1644 3716 
+DEC - Round13 - ATK_inv_output    : S = 5b84 5177 9073 a7da  - Tweakey_13 = 1136 3364 4565 1763 
+DEC - Round13 - SR_inv_outputput  : S = 5b84 7517 7390 7daa  - Tweakey_13 = 1136 3364 4565 1763 
+DEC - Round13 - SC_inv_output     : S = 57c6 e59e e210 ebaa  - Tweakey_13 = 1136 3364 4565 1763 
+DEC - Round13 - MC_inv_output     : S = ec24 59f2 5e7c 5048  - Tweakey_13 = 1136 3364 4565 1763 
+DEC - Round12 - ATK_inv_output    : S = dc77 6d95 3a2a 407a  - Tweakey_12 = 3053 3467 6456 1032 
+DEC - Round12 - SR_inv_outputput  : S = dc77 56d9 2a3a 07a4  - Tweakey_12 = 3053 3467 6456 1032 
+DEC - Round12 - SC_inv_output     : S = b8ee 54b1 3a2a 0ea6  - Tweakey_12 = 3053 3467 6456 1032 
+DEC - Round12 - MC_inv_output     : S = 603d e2f9 8c62 d675  - Tweakey_12 = 3053 3467 6456 1032 
+DEC - Round11 - ATK_inv_output    : S = c983 6c66 53ed 3bdb  - Tweakey_11 = a9be 8e9f df8f edae 
+DEC - Round11 - SR_inv_outputput  : S = c983 66c6 ed53 bdb3  - Tweakey_11 = a9be 8e9f df8f edae 
+DEC - Round11 - SC_inv_output     : S = 81c2 4484 db52 7b72  - Tweakey_11 = a9be 8e9f df8f edae 
+DEC - Round11 - MC_inv_output     : S = e4a4 be34 21e2 1e14  - Tweakey_11 = a9be 8e9f df8f edae 
+DEC - Round10 - ATK_inv_output    : S = 2c7f 318c af4e a2ff  - Tweakey_10 = c8db 8fb8 8eac bceb 
+DEC - Round10 - SR_inv_outputput  : S = 2c7f c318 4eaf 2ffa  - Tweakey_10 = c8db 8fb8 8eac bceb 
+DEC - Round10 - SC_inv_output     : S = 38ef 829c 6daf 3ffa  - Tweakey_10 = c8db 8fb8 8eac bceb 
+DEC - Round10 - MC_inv_output     : S = d0c9 8589 6aba d7dc  - Tweakey_10 = c8db 8fb8 8eac bceb 
+DEC - Round09 - ATK_inv_output    : S = b1ff f5ab 4fdf f7ec  - Tweakey_9 = 6136 7022 2565 2030 
+DEC - Round09 - SR_inv_outputput  : S = b1ff bf5a df4f 7ecf  - Tweakey_9 = 6136 7022 2565 2030 
+DEC - Round09 - SC_inv_output     : S = 79ff 7f5a bf6f ed8f  - Tweakey_9 = 6136 7022 2565 2030 
+DEC - Round09 - MC_inv_output     : S = 2dba eb2a 2b1f b9ca  - Tweakey_9 = 6136 7022 2565 2030 
+DEC - Round08 - ATK_inv_output    : S = a561 34f1 c7f1 5445  - Tweakey_8 = 88db dfdb ecee ed8f 
+DEC - Round08 - SR_inv_outputput  : S = a561 134f f1c7 4455  - Tweakey_8 = 88db dfdb ecee ed8f 
+DEC - Round08 - SC_inv_output     : S = a549 926f f98e 6655  - Tweakey_8 = 88db dfdb ecee ed8f 
+DEC - Round08 - MC_inv_output     : S = 0db4 5173 3a92 cea8  - Tweakey_8 = 88db dfdb ecee ed8f 
+DEC - Round07 - ATK_inv_output    : S = b40a 9edf d50d 7054  - Tweakey_7 = b9be cfac ef9f befc 
+DEC - Round07 - SR_inv_outputput  : S = b40a f9ed 0dd5 0547  - Tweakey_7 = b9be cfac ef9f befc 
+DEC - Round07 - SC_inv_output     : S = 760a f1db 0bb5 056e  - Tweakey_7 = b9be cfac ef9f befc 
+DEC - Round07 - MC_inv_output     : S = ff00 82bf 78d1 8c64  - Tweakey_7 = b9be cfac ef9f befc 
+DEC - Round06 - ATK_inv_output    : S = 27db 3b14 e62d 05af  - Tweakey_6 = d8db b9ab 9efc 89cb 
+DEC - Round06 - SR_inv_outputput  : S = 27db 43b1 2de6 5af0  - Tweakey_6 = d8db b9ab 9efc 89cb 
+DEC - Round06 - SC_inv_output     : S = 3eb7 6279 3bd4 5af0  - Tweakey_6 = d8db b9ab 9efc 89cb 
+DEC - Round06 - MC_inv_output     : S = 035d 063e 5f93 671a  - Tweakey_6 = d8db b9ab 9efc 89cb 
+DEC - Round05 - ATK_inv_output    : S = fae3 cbf5 a24e 9da1  - Tweakey_5 = f9be cdcb fddd fabb 
+DEC - Round05 - SR_inv_outputput  : S = fae3 5cbf 4ea2 da19  - Tweakey_5 = f9be cdcb fddd fabb 
+DEC - Round05 - SC_inv_output     : S = fad2 587f 6da3 ba91  - Tweakey_5 = f9be cdcb fddd fabb 
+DEC - Round05 - MC_inv_output     : S = 8f4d 183c 2de0 cf0e  - Tweakey_5 = f9be cdcb fddd fabb 
+DEC - Round04 - ATK_inv_output    : S = bf1e 5c39 79f6 8a3b  - Tweakey_4 = 3053 4405 5416 4535 
+DEC - Round04 - SR_inv_outputput  : S = bf1e 95c3 f679 a3b8  - Tweakey_4 = 3053 4405 5416 4535 
+DEC - Round04 - SC_inv_output     : S = 7f9d 1582 f4e1 a27c  - Tweakey_4 = 3053 4405 5416 4535 
+DEC - Round04 - MC_inv_output     : S = 431f c863 2900 9efe  - Tweakey_4 = 3053 4405 5416 4535 
+DEC - Round03 - ATK_inv_output    : S = 6229 eb72 3e37 abad  - Tweakey_3 = 2136 2311 1737 3553 
+DEC - Round03 - SR_inv_outputput  : S = 6229 2eb7 373e bada  - Tweakey_3 = 2136 2311 1737 3553 
+DEC - Round03 - SC_inv_output     : S = 4331 3d7e 2e2d 7aba  - Tweakey_3 = 2136 2311 1737 3553 
+DEC - Round03 - MC_inv_output     : S = 69e9 04f5 17a6 5062  - Tweakey_3 = 2136 2311 1737 3553 
+DEC - Round02 - ATK_inv_output    : S = a132 eb1d a90a ebde  - Tweakey_2 = c8db efe8 beac bbbc 
+DEC - Round02 - SR_inv_outputput  : S = a132 deb1 0aa9 bdee  - Tweakey_2 = c8db efe8 beac bbbc 
+DEC - Round02 - SC_inv_output     : S = a923 bd79 0aa1 7bdd  - Tweakey_2 = c8db efe8 beac bbbc 
+DEC - Round02 - MC_inv_output     : S = cc05 6f87 d85f 1efb  - Tweakey_2 = c8db efe8 beac bbbc 
+DEC - Round01 - ATK_inv_output    : S = ad33 1ea0 fd1a 4bba  - Tweakey_1 = 6136 7127 2545 5541 
+DEC - Round01 - SR_inv_outputput  : S = ad33 01ea 1afd bba4  - Tweakey_1 = 6136 7127 2545 5541 
+DEC - Round01 - SC_inv_output     : S = ab22 09da 9afb 77a6  - Tweakey_1 = 6136 7127 2545 5541 
+DEC - Round01 - MC_inv_output     : S = e487 d55e 467f 3803  - Tweakey_1 = 6136 7127 2545 5541 
+DEC - Round00 - ATK_inv_output    : S = 4c5c 5d95 8ae1 829b  - Tweakey_0 = a8db 88cb cc9e ba98 
+DEC - Round00 - SR_inv_outputput  : S = 4c5c 55d9 e18a 29b8  - Tweakey_0 = a8db 88cb cc9e ba98 
+DEC - Round00 - SC_inv_output     : S = 6858 55b1 d9ca 317c  - Tweakey_0 = a8db 88cb cc9e ba98 
+DEC - Round00 - MC_inv_output     : S = bd07 0c95 80ee e423  - Tweakey_0 = a8db 88cb cc9e ba98 
+CipherText_Decryption: d4e2 fecc 095d 02ac 
+
+   Ω‚√‹  ≥…π¶ 
+End.
